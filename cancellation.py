@@ -14,8 +14,8 @@ print(cleanerinfo.loc[["NX"]])
 #select a specific cleaner's column
 print(cleanerinfo.iloc[[2,1]])
 
-plt.plot(cleanerinfo.time_arrived,
+plt.scatter(cleanerinfo.time_arrived,
          cleanerinfo.tasks)
 plt.xlabel("time arrived")
 plt.ylabel("tasks")
-plt.show
+plt.show()
