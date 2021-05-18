@@ -1,15 +1,16 @@
-cleaner code,cleaner name,date scheduled,time arrived,tasks,client rating
-CX,Xiadani Christel,2/1/2020,8,1,8
-CG,Gallus Chin,2/21/2020,9,1,7
-AC,Cleveland Alease,3/5/2020,7,2,10
-NE,Ester Natalie,6/3/2020,10,6,8
-LS,Sieffre Louiza,5/10/2021,NA,4,0
-FT,Teobaldo Felicitas,7/14/2020,12,8,2
-MJ,Jusztina Monique,10/6/2020,14,5,9
-CA,Alen Chanelle,11/18/2020,15,3,0
-IN,Nikandr Iago,12/20/2020,6,4,9
-BA,Anoush Bhumi,12/28/2020,13,3,8
-CK,Kweku Maria Chiara,6/12/2021,NA,9,0
-TB,Baldric Telman,1/21/2021,7,2,9
-MA,Abdullaahi Milena,2/1/2021,11,8,1
-NX,Ximena Nayeli,3/9/2021,NA,8,0
+cleaner code,cleaner name,date scheduled,time_arrived,tasks,client rating,card on file,email
+CX,Xiadani Christel,2/1/2020,8,1,8,yes,
+CG,Gallus Chin,2/21/2020,9,1,7,yes,
+AC,Cleveland Alease,3/5/2020,7,2,10,yes,
+NE,Ester Natalie,6/3/2020,10,6,8,no,
+LS,Sieffre Louiza,5/10/2021,0,4,0,yes,
+FT,Teobaldo Felicitas,7/14/2020,12,8,2,yes,
+MJ,Jusztina Monique,10/6/2020,14,5,9,no,
+CA,Alen Chanelle,11/18/2020,15,3,0,no,
+IN,Nikandr Iago,12/20/2020,6,4,9,yes,
+BA,Anoush Bhumi,12/28/2020,13,3,8,yes,
+CK,Kweku Maria Chiara,6/12/2021,0,9,0,no,
+TB,Baldric Telman,1/21/2021,7,2,9,yes,
+MA,Abdullaahi Milena,2/1/2021,11,8,1,yes,
+NX,Ximena Nayeli,3/9/2021,0,8,0,yes,
+KD,Deolall Kenny,4/1/2021,0,10,0,yes,kendeo89@gmail.com
