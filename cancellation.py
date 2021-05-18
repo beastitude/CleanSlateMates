@@ -17,5 +17,6 @@ print(cleanerinfo.iloc[[2,1]])
 plt.scatter(cleanerinfo.time_arrived,
          cleanerinfo.tasks)
 plt.xlabel("time arrived")
-plt.ylabel("tasks")
+plt.ylabel("# of tasks")
+plt.title("# of tasks and arrival time")
 plt.show()
